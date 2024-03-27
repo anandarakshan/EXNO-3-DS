@@ -28,11 +28,15 @@ We use this categorical data encoding technique when the features are nominal(do
 # Methods Used for Data Transformation:
   # 1. FUNCTION TRANSFORMATION
 • Log Transformation
+
 • Reciprocal Transformation
+
 • Square Root Transformation
+
 • Square Transformation
   # 2. POWER TRANSFORMATION
 • Boxcox method
+
 • Yeojohnson method
 
 # CODING AND OUTPUT:
